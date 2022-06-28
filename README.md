@@ -2,14 +2,14 @@
 
 
 ### 🐶 About Me
-💻 &nbsp; Front-end (Web)  
-📞 &nbsp; hhw12409@gmail.com <br/>
-🌟 &nbsp; tistory : <a href="https://latte1114.tistory.com/">@Hyeonwoo</a>
+* 💻 &nbsp; Front-end (Web)  
+* 📞 &nbsp; hhw12409@gmail.com <br/>
+* 🌟 &nbsp; tistory : <a href="https://latte1114.tistory.com/">@Hyeonwoo</a>
 
 
 <br />
 
-### 📚 Languages and Tools  
+### 📚 Tech Stack and tools
 
 <p align="left"> 
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
@@ -30,9 +30,9 @@
 
 <br />
 
-### 🌻 Current Projects
+### 🎨 Current Projects
 
-<a href= "#">나네즈 향수플랫폼</a>
+* <h3>나네즈 향수플랫폼</h3>
 <br />
 
 ### 📊 Stats
