@@ -32,7 +32,7 @@
 
 ### 🎨 Current Projects
 
-* <h3>나네즈 향수플랫폼</h3>
+* <h3>나네즈 향수플랫폼 (Front-end engineer)</h3>
 <br />
 
 ### 📊 Stats
