@@ -4,7 +4,7 @@
 ### 🐶 About Me
 * 💻 &nbsp; Front-end (Web)  
 * 📞 &nbsp; hhw12409@gmail.com <br/>
-* 🌟 &nbsp; tistory : <a href="https://latte1114.tistory.com/">@Hyeonwoo</a>
+* 📚 &nbsp; tistory : <a href="https://latte1114.tistory.com/">@Hyeonwoo</a>
 
 
 <br />
