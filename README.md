@@ -30,11 +30,6 @@
 
 <br />
 
-### 🎨 Current Projects
-
-* <h3>나네즈 향수플랫폼 (Front-end Engineer)</h3>
-<br />
-
 ### 📊 Stats
 
 ![Hyeonwoo's github stats](https://github-readme-stats.vercel.app/api?username=hhw12409&show_icons=true)
