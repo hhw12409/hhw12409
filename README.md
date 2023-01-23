@@ -47,7 +47,7 @@
 <br />
 
 ### 📊 Stats
-![Hyeonwoo's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hhw12409&&show_icons=true&theme=dark)
+![Hyeonwoo's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hhw12409&&show_icons=true&theme=white)
 
 <br />
 
