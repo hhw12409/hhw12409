@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Welcome&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&desc=Hello%20world%20Hyeonwoo's%20GitHub%20Profile&descSize=10&descAlign=62)
 ## 👨🏻‍💻 황현우 Hyeonwoo
 
 ### 🐶 About Me
