@@ -2,7 +2,7 @@
 ## 👨🏻‍💻 황현우 Hyeonwoo
 
 ### 🐶 About Me
-* 💻 &nbsp; Front-end
+* 💻 &nbsp; Full-stack
 * 📞 &nbsp; hhw12409@gmail.com <br/>
 * 📖 &nbsp; tistory : <a href="https://latte1114.tistory.com/">@Hyeonwoo</a>
 * 📖 &nbsp; tech blog : <a href="https://blog-hhw12409.vercel.app">@Blog</a>
