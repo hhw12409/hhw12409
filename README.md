@@ -3,6 +3,7 @@
 
 ### 🐶 About Me
 * 💻 &nbsp; Full-stack
+* 🎓 &nbsp; Computer science
 * 📞 &nbsp; hhw12409@gmail.com <br/>
 * 📖 &nbsp; tistory : <a href="https://latte1114.tistory.com/">@Hyeonwoo</a>
 * 📖 &nbsp; tech blog : <a href="https://blog-hhw12409.vercel.app">@Blog</a>
